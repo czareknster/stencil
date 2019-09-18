@@ -60,6 +60,7 @@
     "typescript": "3.6.2"
   },
   "devDependencies": {
+    "@stencil/sass": "^1.0.1",
     "@types/autoprefixer": "^9.1.1",
     "@types/cssnano": "^4.0.0",
     "@types/exit": "^0.1.30",
@@ -83,6 +84,7 @@
     "@types/ws": "^6.0.1",
     "ansi-colors": "4.1.1",
     "autoprefixer": "9.6.1",
+    "codelyzer": "^5.1.0",
     "conventional-changelog-cli": "^2.0.12",
     "core-js-builder": "^3.2.0",
     "css-what": "3.2.0",
